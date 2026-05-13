@@ -76,8 +76,6 @@ Provides a user-friendly chat interface.
 
 * Multi-user group chat
 * Improved UI design
-* Emoji support
-* User authentication system
 * Internet-based communication
 
 
